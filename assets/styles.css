@@ -1,0 +1,71 @@
+body {
+  background-image: url("../assets/images/taka.jpg");
+  background-size: cover;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+}
+
+.navbar::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 200px;
+  height: 30px;
+  background-color: white;
+  z-index: 1;
+}
+
+.navbar-brand {
+  position: relative;
+  z-index: 2;
+  font-size: 24px;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #034881;
+  text-align: center;
+  width: 100%;
+  background-color: white;
+  padding: 10px 20px;
+}
+
+
+.nav-tabs {
+  background-color: rgba(255, 255, 255, 0.8);
+  justify-content: center;
+}
+
+.modal-dialog {
+  margin-top: 20vh;
+}
+
+.modal-title {
+  text-align: center;
+}
+
+.modal-body {
+  padding: 20px;
+}
+
+.modal-content {
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+.modal-header {
+  border-bottom: none;
+}
+
+.form-control {
+  margin-bottom: 10px;
+}
