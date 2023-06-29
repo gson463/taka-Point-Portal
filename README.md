@@ -2,7 +2,4 @@
 A garbage payment collections data portal for Tanzania (serikali za mitaa).
 Admin Credentials: [username: Admin, password:12345]
 you can change these credentials direct to the database.
-![Screenshot (30)](https://github.com/gson463/taka-Point-Portal/assets/65144643/fbe39596-2df7-4cf3-85c5-286ebababd24)
-![Uploading Screenshot (27).png…]()
-![Uploading Screenshot (28).png…]()
-![Uploading Screenshot (29).png…]()
+![Screenshot (27)](https://github.com/gson463/taka-Point-Portal/assets/65144643/95f86bf9-bc22-4140-9098-d30c40e5bb53)
